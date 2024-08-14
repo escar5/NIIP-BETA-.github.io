@@ -32,11 +32,6 @@
         <video controls="controls" autoplay="autoplay" width="600" height="400" loop>
             <source src="448520678_7749092941851839_5264772222640803689_n.mp4" type="video/mp4" />
             Your browser does not support video format.
-        </video>
-
-        
-        
-        
-        
+        </video>        
     </body>  
 </html>
